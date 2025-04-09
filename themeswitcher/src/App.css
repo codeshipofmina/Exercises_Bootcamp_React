@@ -1,0 +1,9 @@
+.light {
+    background-color: whitesmoke;
+    color: rgb(33, 33, 33);
+}
+
+.dark {
+    background-color: rgb(33, 33, 33);
+    color: whitesmoke;
+}
